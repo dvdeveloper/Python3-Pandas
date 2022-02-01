@@ -40,3 +40,14 @@
    - Obtener visitas en Marzo y Abril
    - Obtener visitas en Enero,Febrero y Marzo
    - Resetear index del DataFrame
+7. Modificación de DataFrame
+   - Agregar nueva columna
+   - Agregar columna boolean 
+   - Agregar nueva columna + aritmetica
+   - Agregar nueva columna + utilizando función upper()
+   - Renombrar columnas
+   - Eliminar columna
+8. Función lambda
+   - Ejemplo básico de lambda
+   - Agregar nueva columna utilizando lambda 
+   - Lambda row (fila)
