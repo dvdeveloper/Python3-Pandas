@@ -25,4 +25,18 @@
 4. Reset Index
    - Resetear el indice luego de filtrar dataframe
    - Eliminar columna Index
-   
+5. Proyecto Peliculas
+   - Crear DataFrame
+   - Crear DataFrame utilizando lista
+   - Crear CSV formato string
+   - Cargar archivo CSV
+   - Mostrar información del DataFrame
+6. Proyecto Clinica
+   - Crear DataFrame clinica
+   - filtrar clinica: clinic_north
+   - filtrar clinica: clinic_north y clinic_south
+   - obtener visitas de marzo para todas las clinicas
+   - obtener visitas en Enero
+   - Obtener visitas en Marzo y Abril
+   - Obtener visitas en Enero,Febrero y Marzo
+   - Resetear index del DataFrame
