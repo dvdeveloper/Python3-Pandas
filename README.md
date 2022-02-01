@@ -64,14 +64,14 @@
    - Agregar columna: Shoe Source utilizando Lambda
    - Agregar columna: salutation utilizando Lambda
 10. Tienda de Jardineria - Lambda
-   - Cargar CSV
-   - Filtrar ubicación por: Staten Island
-   - Agregar columna: in_stock utilizando Lambda
-   - Agregar columna: total_value -> Calculando utilizando Price * Quantity
-   - Agregar columna: full_description utilizando lamda (valores de 2 columnas)
+	- Cargar CSV
+	- Filtrar ubicación por: Staten Island
+	- Agregar columna: in_stock utilizando Lambda
+	- Agregar columna: total_value -> Calculando utilizando Price * Quantity
+	- Agregar columna: full_description utilizando lamda (valores de 2 columnas)
 11. Agregación
-   - Obtener mediana
-   - Obtener valores únicos (nunique y unique)
-   - Obtener máximos y minimos
-   - Agrupación: Obtener el rating máximo por genero
-   - Resetear el index de la agrupación
+	- Obtener mediana
+	- Obtener valores únicos (nunique y unique)
+	- Obtener máximos y minimos
+	- Agrupación: Obtener el rating máximo por genero
+	- Resetear el index de la agrupación
